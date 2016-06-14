@@ -581,6 +581,9 @@ a{
     text-align: center;
     transition: all 0.8s ease;
     position: relative;
+    @media screen and(max-width: 500px){
+      top: 40px;
+    }
   }
   .Zp-writing{
     width: 95%;
@@ -590,6 +593,9 @@ a{
     right: 0;
     height: 88%;
     background: #F7F7F7;
+    @media screen and(max-width: 500px){
+      height: 78%;
+    }
     .Zp-of{
       position: relative;
       width:22%;
@@ -617,6 +623,9 @@ a{
         width: 140px;
         height: 125px;
         margin: 10px 0;
+      }
+      @media screen and(max-width: 500px){
+        margin: 0;
       }
       @media screen and(max-width: 400px){
         width: 100px;
