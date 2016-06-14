@@ -515,6 +515,8 @@ a {
           margin: 10px 0; } }
       @media screen and (max-width: 500px) {
         #section4 .Zp-writing .Zp-of {
+          width: 100px;
+          height: 100px;
           margin: 0; } }
       @media screen and (max-width: 400px) {
         #section4 .Zp-writing .Zp-of {
