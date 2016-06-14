@@ -484,6 +484,7 @@ a {
     background: #F7F7F7; }
     @media screen and (max-width: 500px) {
       #section4 .Zp-writing {
+        top: 130px;
         height: 78%; } }
     #section4 .Zp-writing .Zp-of {
       position: relative;
