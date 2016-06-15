@@ -8,6 +8,10 @@ ul, li {
 a {
   text-decoration: none; }
 
+h2 {
+  font-family: "Georgia";
+  color: #000; }
+
 #section1 .one, #section1 .slider .slide, #section1 .slider .fp-tableCell p, #section1 .slider .fp-tableCell h2, #section2 #about .tm-about .tm-about-frame, #section2 #about .tm-about .tm-about-img, #section2 #about .say-about, #section3 .Gy-skills {
   position: absolute;
   bottom: 0;
